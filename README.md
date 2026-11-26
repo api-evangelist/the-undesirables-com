@@ -1,4 +1,4 @@
-# the-undesirables-com
+# The Undesirables
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,125 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-the-undesirables-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://the-undesirables.com/
+The Undesirables LLC is a Wyoming‑based company that creates and manages NFT‑backed digital experiences, including the Soul Chat platform and collectible soul.md files. It operates a suite of APIs for minting, holding, and interacting with NFTs, as well as chat services that respect user privacy. The company’s privacy policy outlines data collection, retention, and user rights, emphasizing that wallet addresses are used only for verification and that chat messages are not stored persistently.
+
+**Areas:** NFT · Gaming · Chat · Privacy · Wyoming
+
+## The Undesirables on APIs.io
+
+Everything profiled for The Undesirables is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/the-undesirables-com/](https://apis.io/providers/the-undesirables-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (5)
+
+- [The Undesirables Discovery API](https://apis.io/apis/the-undesirables-com/the-undesirables-com-discovery-api/) — The Discovery API from The Undesirables — 4 operation(s) for discovery.
+- [The Undesirables Free API](https://apis.io/apis/the-undesirables-com/the-undesirables-com-free-api/) — The Free API from The Undesirables — 45 operation(s) for free.
+- [The Undesirables Info API](https://apis.io/apis/the-undesirables-com/the-undesirables-com-info-api/) — The Info API from The Undesirables — 4 operation(s) for info.
+- [The Undesirables Retired API](https://apis.io/apis/the-undesirables-com/the-undesirables-com-retired-api/) — The Retired API from The Undesirables — 6 operation(s) for retired.
+- [The Undesirables Suspended API](https://apis.io/apis/the-undesirables-com/the-undesirables-com-suspended-api/) — The Suspended API from The Undesirables — 7 operation(s) for suspended.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [The Undesirables Agentic Access](https://apis.io/agentic-access/the-undesirables-com/the-undesirables-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [Body_batch_triage_post_api_v1_batch_triage_post](https://apis.io/schemas/the-undesirables-com/the-undesirables-com-body-batch-triage-post-api-v1-batch-triage-post/)
+- [Body_grade_card_upload_api_v1_grade_upload_post](https://apis.io/schemas/the-undesirables-com/the-undesirables-com-body-grade-card-upload-api-v1-grade-upload-post/)
+- [Body_recommend_workflow_api_v1_recommend_get](https://apis.io/schemas/the-undesirables-com/the-undesirables-com-body-recommend-workflow-api-v1-recommend-get/)
+- [Body_recommend_workflow_api_v1_recommend_post](https://apis.io/schemas/the-undesirables-com/the-undesirables-com-body-recommend-workflow-api-v1-recommend-post/)
+- [Body_report_actual_grade_api_v1_accuracy_report_post](https://apis.io/schemas/the-undesirables-com/the-undesirables-com-body-report-actual-grade-api-v1-accuracy-report-post/)
+- [Body_subscribe_alert_api_v1_alerts_subscribe_post](https://apis.io/schemas/the-undesirables-com/the-undesirables-com-body-subscribe-alert-api-v1-alerts-subscribe-post/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [The Undesirables Com Context](https://apis.io/jsonld/the-undesirables-com/the-undesirables-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [The Undesirables API Rules](https://apis.io/rules/the-undesirables-com/the-undesirables-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [The Undesirables Domain Security](https://apis.io/security/the-undesirables-com/the-undesirables-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://the-undesirables.com/)
+- [Documentation](https://the-undesirables.com/docs)
+- [API reference](https://oracle.the-undesirables.com)
+- [Support](https://the-undesirables.com/support)
+- [Terms of service](https://the-undesirables.com/terms)
+- [Privacy policy](https://the-undesirables.com/privacy)
+- [GitHub](https://github.com/sailorpepe)
+
+## API Evangelist rating
+
+**Kin Score 40.2** — developing · rubric 0.28.0 · scored 2026-11-26
+
+| Facet | Score |
+|---|---|
+| Discoverability | 76.8 |
+| Contract quality | 55.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 4.8 |
+| Developer ergonomics | 27.9 |
+| Access clarity | 17.0 |
+
+**Agent readiness 39.7** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | self |
+| Pagination Ratio | na |
+| Operation Distinctiveness | mostly (partial credit) |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/the-undesirables-com/](https://apis.io/providers/the-undesirables-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for The Undesirables: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/the-undesirables-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
